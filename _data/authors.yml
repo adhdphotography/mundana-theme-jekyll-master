@@ -1,0 +1,23 @@
+sal:
+  name:           Sal
+  site:           https://www.wowthemes.net
+  avatar:         /assets/images/avatar1.jpg
+  bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+  email:          wowthemesnet@gmail.com
+  twitter:        https://twitter.com/wowthemesnet
+
+jane:
+  name:           Jane
+  site:           https://www.wowthemes.net
+  avatar:         /assets/images/avatar2.jpg
+  bio:            "All the world's a stage. And all the men and women merely player.; They have their exits and their       entrances. And one man in his time plays many parts."
+  email:          fakemail@gmail.com
+  twitter:        https://twitter.com/wowthemesnet
+
+john:
+  name:           John
+  site:           https://www.google.com
+  avatar:         /assets/images/avatar3.jpg
+  bio:            "My name is John. I have ADHD. My goal is to share tips and resources to get past the roadblocks that ADHD creates."
+  email:          jwkennedy87@gmail.com
+  twitter:        https://twitter.com/wendys
